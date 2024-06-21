@@ -1,0 +1,30 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "Week-10 Challenge",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/fabianmedina3012/svg-logo-maker"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/fabianmedina3012/svg-logo-maker/issues"
+    },
+    "homepage": "https://github.com/fabianmedina3012/svg-logo-maker#readme",
+    "dependencies": {
+      "inquirer": "^8.2.6"
+    },
+    "devDependencies": {
+      "jest": "^29.5.0"
+    }
+  }
